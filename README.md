@@ -2,7 +2,7 @@
 
 - 🔭 Sou Arquiteto de Software, e atualmente trabalho com Back-End Java ...
 - 🌱 Estou Estudando DDD / Kafka ...
-- 📫 Contate-me em midianet@mail.com: ...
+- 📫 Contate-me em midianet@mail.com
 - ⚡ Saliva não gera Código: ...
 
  <div>
@@ -37,7 +37,8 @@
   <a href="https://www.youtube.com/channel/UCCja0uKNk-T50BOWdGg1YvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:midianet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-fernando-costa-46b5061b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <h1>Commits</h1>
+  
   ![Snake animation](https://github.com/midianet/midianet/blob/output/github-contribution-grid-snake.svg)
  
 </div>
